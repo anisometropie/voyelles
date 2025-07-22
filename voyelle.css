@@ -1,5 +1,15 @@
-body
-{
-	font-size: 25px;
-	color: blue;
+body {
+  font-size: 25px;
+  color: blue;
+
+  .main {
+    display: flex;
+    flex-direction: row;
+
+    margin: 10px;
+  }
+}
+
+table {
+  margin: 10px;
 }
